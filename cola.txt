@@ -1,0 +1,22 @@
+venda
+
+{
+	"order_id": "2",
+	"investor_id": "Paulo",
+	"asset_id": "asset1",
+	"current_shares": 10,
+  "shares": 5,
+  "price": 5.0,
+  "order_type": "SELL"
+}
+
+compra
+
+{
+	"investor_id": "Elisa",
+	"asset_id": "asset1",
+	"current_shares": 10,
+  "shares": 5,
+  "price": 5.0,
+  "order_type": "BUY"
+}
